@@ -1,0 +1,27 @@
+torch/csrc/profiler/orchestration/observer.cpp
+  s_c1bdbac52da387::t_c743414ef12f43 145-148
+  s_c1bdbac52da387::t_d8ffa21072b998 144,168-171,174
+c10/core/Allocator.h
+  s_c1bdbac52da387::t_e33ae1a84ef617 332-333
+test/profiler/test_profiler.py
+  s_c1bdbac52da387::t_ddb37a3344655c 2957-2984
+c10/core/Allocator.cpp
+  s_c1bdbac52da387::t_d8ffa21072b998 4-5,51-53,55-69,71-96,101-108,130
+  s_c1bdbac52da387::t_ccaaf3bd79e2a5 145-150,164-169
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "6fda1a60dc93fe9ddb4a2df47fed8c19265293cb",
+  "prompts": {},
+  "sessions": {
+    "s_c1bdbac52da387": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fb0cf-3fd3-7262-8be4-2eee9121f7f1",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    }
+  }
+}
