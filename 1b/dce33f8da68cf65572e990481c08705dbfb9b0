@@ -1,0 +1,22 @@
+c10/core/Allocator.cpp
+  s_c1bdbac52da387::t_a49a364a8496b0 51-54,59-60,82,97-99,113-114
+torch/csrc/autograd/profiler_kineto.cpp
+  s_c1bdbac52da387::t_a49a364a8496b0 150,156,170-171,173,243
+  s_c1bdbac52da387::t_765a15c61d336c 366-455,643
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "1bdce33f8da68cf65572e990481c08705dbfb9b0",
+  "prompts": {},
+  "sessions": {
+    "s_c1bdbac52da387": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fb0cf-3fd3-7262-8be4-2eee9121f7f1",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "fuwenguang <fuwenguang412@gmail.com>"
+    }
+  }
+}
